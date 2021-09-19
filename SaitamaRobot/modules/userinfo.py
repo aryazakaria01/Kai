@@ -25,6 +25,7 @@ from SaitamaRobot import (
     TIGERS,
     WOLVES,
     INFOPIC,
+    dispatcher,
     sw,
 )
 from SaitamaRobot.__main__ import STATS, TOKEN, USER_INFO
